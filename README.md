@@ -6,4 +6,4 @@ Built a decentralized e-commerce application that allows users to list, purchase
 
 ### `npm start`
 
-project by ambar , anurag and mayank
+project by ambar
